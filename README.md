@@ -1,1 +1,3 @@
-Simple UI for the Receipes with Images API found on rapidapi.com (https://rapidapi.com/zilinskivan/api/food-recipes-with-images)
+Simple UI for the Food Receipes with Images API (https://rapidapi.com/zilinskivan/api/food-recipes-with-images) found on RapidAPI (https://radpidapi.com)
+
+
